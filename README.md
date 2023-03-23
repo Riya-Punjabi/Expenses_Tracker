@@ -17,11 +17,17 @@ Hi! I'm your guide to expense tracker project. read me to run the project.
 	- Swagger
 ## Steps for installation
 step 1: open visual studio
+
 step 2: install the prerequisites
+
 step 3: load the project
+
 step4: use command update-database in your package manager
+
 step5: run the program
+
 step6: let the swagger run
+
 step7: open the index.html from the directory
 
 ## Screenshots
